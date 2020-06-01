@@ -12,11 +12,14 @@ All the SODA features are listed here. More information  will be updated here sh
 ## File Share  
 
 File share in sodafoundation facilitates the user to create file share, set access permission for that file share and user can also create snapshot. Opensds provides both CLI and Dashboard to operate or play with file share feature. Goals of file share in sodafoundation are Facilitating File Share Service by providing Standard API to manage multiple vendors, simplify File Share API definition File share across the users based on access capability File share facilitates with profiling Scope for now is to support only NFS, SMB file share protocols.
+<br />
+<h1 align="center">
+[User Guide](../guides/user-guides/file-share/_index.md)
+[Developer Guide](..//guides/developer-guides/file-share_index.md)
+</h1>
 
-<a href="/guides/user-guides/file-share" class="button big">Create Project</a>
-{% include button.html url="(content/guides/user-guides/file-share)" %}
-{{% button href="/guides/user-guides/file-share" target="_self" icon="fas fa-file-alt" icon-position="right" %}}User Guide{{% /button %}}
-{{% button href="/guides/developer-guides/file-share" icon="fas fa-file-code" icon-position="right" %}}Developer Guide{{% /button %}}
+[User Guide](../guides/user-guides/file-share/_index.md)
+[Developer Guide](..//guides/developer-guides/file-share_index.md)
 
 ## Orchestration & Automation  
 
