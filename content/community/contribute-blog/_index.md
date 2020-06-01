@@ -1,7 +1,7 @@
 ---
-title: Contribute to the SODA Foundation Blog
-description: "This guide explains how to contribute an entry to the SODA Foundation Blog at http://blog.sodafoundation.io."
-weight: 3
+Title: Contribute to the SODA Foundation Blog
+Description: "This guide explains how to contribute an entry to the SODA Foundation Blog at http://blog.sodafoundation.io."
+Weight: 3
 ---
 {{% notice note %}}
 The blog website is based on Hugo/Netlify.  
